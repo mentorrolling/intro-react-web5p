@@ -1,0 +1,9 @@
+.parrafo-principal {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  color: aqua;
+}
+
+.linea {
+  text-decoration: underline;
+}
